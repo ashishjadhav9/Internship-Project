@@ -1,0 +1,15 @@
+🚀 How to Run the Project
+
+1️⃣ Clone the repository
+git clone https://github.com/ashishjadhav9/Internship-Project.git
+
+2️⃣ Navigate to the project folder
+cd sign-language-translator
+
+3️⃣ Install dependencies
+pip install -r requirements.txt
+
+4️⃣ Run the main application
+python test.py
+
+After running the program, the application interface will open with three modules.
