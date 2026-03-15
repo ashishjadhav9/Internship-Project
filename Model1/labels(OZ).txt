@@ -1,0 +1,14 @@
+0 O
+1 P
+2 Q
+3 R
+4 S
+5 T
+6 U
+7 V
+8 W
+9 X
+10 Y
+11 Z
+12 SPACE
+13 DELETE
