@@ -1,0 +1,6 @@
+1. install IP Webcam on your mobile.
+2. Connect mobile hotspot to laptop.
+3. Start Server.
+4. Share IP address to laptop.
+5. Put in test.py
+6. Run frontend.py
