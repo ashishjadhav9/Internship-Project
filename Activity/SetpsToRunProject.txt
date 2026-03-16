@@ -10,6 +10,6 @@ cd sign-language-translator
 pip install -r requirements.txt
 
 4️⃣ Run the main application
-python test.py
+python frontend.py
 
 After running the program, the application interface will open with three modules.
